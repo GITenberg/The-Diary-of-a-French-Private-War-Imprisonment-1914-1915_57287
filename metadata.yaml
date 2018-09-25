@@ -1,0 +1,40 @@
+_repo: The-Diary-of-a-French-Private-War-Imprisonment-1914-1915_57287
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Paul, Eden
+    aliases:
+    - Paul, M. Eden (Maurice Eden)
+    - Paul, Maurice Eden
+    birthdate: 1865
+    deathdate: 1944
+    gutenberg_agent_id: '389'
+    url: http://www.gutenberg.org/2009/agents/389
+    wikipedia: http://en.wikipedia.org/wiki/Eden_Paul
+  - agent_name: Paul, Cedar
+    alias: Davenport, Gertrude Mary
+    birthdate: 1880
+    deathdate: 1972
+    gutenberg_agent_id: '390'
+    url: http://www.gutenberg.org/2009/agents/390
+    wikipedia: http://en.wikipedia.org/wiki/Cedar_Paul
+creator:
+  author:
+    agent_name: Riou, Gaston
+    gutenberg_agent_id: '49296'
+    url: http://www.gutenberg.org/2009/agents/49296
+description: ''
+gutenberg_issued: '2018-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Diary of a French Private
+
+  War-Imprisonment 1914-1915'
+url: http://www.gutenberg.org/ebooks/57287
