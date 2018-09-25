@@ -1,5 +1,5 @@
 _repo: The-Diary-of-a-French-Private-War-Imprisonment-1914-1915_57287
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Paul, Eden
@@ -18,12 +18,17 @@ contributor:
     gutenberg_agent_id: '390'
     url: http://www.gutenberg.org/2009/agents/390
     wikipedia: http://en.wikipedia.org/wiki/Cedar_Paul
+covers:
+- cover_type: archival
+  image_path: 57287-h/images/cover.jpg
 creator:
   author:
     agent_name: Riou, Gaston
     gutenberg_agent_id: '49296'
     url: http://www.gutenberg.org/2009/agents/49296
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57287#The-Diary-of-a-French-Private-War-Imprisonment-1914-1915
 gutenberg_issued: '2018-06-07'
 gutenberg_type: Text
 identifiers:
